@@ -4,7 +4,7 @@ local TweenService = game:GetService("TweenService")
 local StarterGui = game:GetService("StarterGui")
 
 local CorrectKey = "NagiHubKey"
-local ScriptURL = "https://raw.githubusercontent.com/sanstheskaterboard-dev/scripts/refs/heads/main/Build%20a%20boat.lua"
+local ScriptURL = "https://raw.githubusercontent.com/sanstheskaterboard-dev/scripts/refs/heads/main/Babft.lua"
 local DiscordLink = "https://discord.gg/MQAut7egGp"
 
 -- Create ScreenGui
